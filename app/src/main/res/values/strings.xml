@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">houseView</string>
+    <string name="one_bed">1BHK</string>
+    <string name="_2bhk">2BHK</string>
+    <string name="_3bhk">3BHK</string>
+    <string name="_4bhk">4BHK</string>
+    <string name="one_bedroom_hall_kitchen_house">one bedroom hall kitchen house</string>
+</resources>
